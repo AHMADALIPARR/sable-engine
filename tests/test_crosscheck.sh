@@ -1,5 +1,5 @@
 #!/bin/sh
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: LicenseRef-NON-AI-MPL-2.0
 # Copyright (C) 2026 SnapKitty Collective
 # SABLE-C verification suite — pure sh, no Python anywhere in this stack.
 # 1. Determinism: same entropy -> identical run.

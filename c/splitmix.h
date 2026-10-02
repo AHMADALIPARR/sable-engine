@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: AGPL-3.0-or-later */
+/* SPDX-License-Identifier: LicenseRef-NON-AI-MPL-2.0 */
 /* Copyright (C) 2026 SnapKitty Collective */
 /* SplitMix64, counter-increment threading (state += gamma BEFORE mix).
    Mirrors sable/stream.py. seed 0x00BEEFCAFE, n=1024 -> checksum 1388262917130611548. */

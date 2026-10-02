@@ -1,5 +1,5 @@
 #!/bin/sh
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: LicenseRef-NON-AI-MPL-2.0
 # Copyright (C) 2026 SnapKitty Collective
 # Fetch ANU QRNG uint16 words; print "<hexwords> <provenance>".
 # Quantum first (2s timeout); local /dev/urandom fallback, provenance-tagged.

@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: AGPL-3.0-or-later */
+/* SPDX-License-Identifier: LicenseRef-NON-AI-MPL-2.0 */
 /* Copyright (C) 2026 SnapKitty Collective */
 /* SABLE-C: the fast stack. Sparse SUBLEQ execution over the Goldilocks
    field, resonance-gated by the APL machine's sovereign vector, with an
@@ -332,7 +332,7 @@ int main(int argc, char **argv) {
 
     struct timeval tv; gettimeofday(&tv, NULL);
     struct tm *tm = gmtime(&tv.tv_sec);
-    char ts[40];
+    char ts[64];
     snprintf(ts, sizeof ts, "%04d-%02d-%02dT%02d:%02d:%02d.%06ld+00:00",
              tm->tm_year + 1900, tm->tm_mon + 1, tm->tm_mday,
              tm->tm_hour, tm->tm_min, tm->tm_sec, (long)tv.tv_usec);

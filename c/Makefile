@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: AGPL-3.0-or-later
+# SPDX-License-Identifier: LicenseRef-NON-AI-MPL-2.0
 # Copyright (C) 2026 SnapKitty Collective
 CC = gcc
 CFLAGS = -O3 -std=c11 -Wall -Wextra

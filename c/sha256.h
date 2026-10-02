@@ -1,4 +1,4 @@
-/* SPDX-License-Identifier: AGPL-3.0-or-later */
+/* SPDX-License-Identifier: LicenseRef-NON-AI-MPL-2.0 */
 /* Copyright (C) 2026 SnapKitty Collective */
 /* Self-contained SHA-256 (FIPS 180-4). Public-domain-style implementation,
    written here from the spec so the C stack has no crypto dependency. */
